@@ -1,0 +1,2 @@
+# Throwing-Darts
+JS Exercise
