@@ -1,4 +1,4 @@
-function scoreThrows(throwArr) {
+module.exports = (throwArr) => {
   var perfectThrows = true;
   var score = 0;
 
