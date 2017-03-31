@@ -22,4 +22,8 @@ describe('scoreThrows', () => {
     expect(scoreThrows([])).to.be.equal(-1);
   });
 
+  it('should return -1 if parameter is not an array', () => {
+    expect(scoreThrows("Hello")).to.be.equal(-1);
+  });
+
 });

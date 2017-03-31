@@ -2,7 +2,7 @@ module.exports = (throwArr) => {
   var perfectThrows = true;
   var score = 0;
 
-  if (throwArr.length === 0) {
+  if (throwArr.length === 0 || !(throwArr instanceof Array)) {
     return -1;
   }
 
