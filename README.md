@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/Souzooka/Throwing-Darts.svg?branch=master)](https://travis-ci.org/Souzooka/Throwing-Darts)
+
 # Throwing Darts
 You've just recently been hired to calculate scores for a Dart Board game
 
